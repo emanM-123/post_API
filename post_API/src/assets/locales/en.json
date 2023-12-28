@@ -1,0 +1,11 @@
+{
+	"serverError": "serverError",
+	"success": "success",
+	"invalidId": "invalidId",
+    "unAuthorizedUser": "Un authorized user",
+	"createdSuccessfully": "createdSuccessfully",
+	"Updated successfully": "Updated successfully",
+	"Task Id is required": "Task Id is required",
+	"Deleted successfully": "Deleted successfully",
+	"Task not found": "Task not found"
+}
